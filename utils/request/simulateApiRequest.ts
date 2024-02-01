@@ -1,4 +1,3 @@
-import { sumValidate, validatePhoneNumber } from "../validation/valid"
 
 export const simulateApiRequest = async () => {
     return new Promise<void>((resolve, reject) => {

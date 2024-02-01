@@ -1,7 +1,6 @@
 import * as S from '@/styles/styleMainPage'
 import { operators } from '@/data/opearator'
 import Operator from '@/components/Operator'
-import Head from 'next/head'
 
 const Home = () => {
   return (
