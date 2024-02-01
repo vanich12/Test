@@ -6,7 +6,7 @@ import { IOperator } from '@/models/IOperator'
 import * as validation from '@/utils/validation/valid'
 import { simulateApiRequest } from '../utils/request/simulateApiRequest'
 import * as S from '@/styles/payFormStyle'
-import { Button } from '@/components/button'
+import { Button } from '@/components/Button'
 import { withStyledButton } from '@/HOC/HOCButton'
 
 const StyledButtonPay = withStyledButton(Button, S.PayButton)

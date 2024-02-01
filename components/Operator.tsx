@@ -4,7 +4,7 @@ import React from 'react'
 import styled, { css, keyframes } from 'styled-components'
 import Link from 'next/link'
 import { IOperator } from '@/models/IOperator'
-import { Button } from '@/components/button'
+import { Button } from '@/components/Button'
 import { withStyledButton } from '@/HOC/HOCButton'
 
 interface OperatorProps {

@@ -1,4 +1,4 @@
-import { ButtonProps } from '@/components/button'
+import { ButtonProps } from '@/components/Button'
 import styled from 'styled-components'
 
 export const withStyledButton = (
